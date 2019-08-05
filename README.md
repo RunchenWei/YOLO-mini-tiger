@@ -14,8 +14,9 @@ run `make -j` <br>
 Detailed insatallation please refer to Darknet. <br>
 
 `git clone https://github.com/RunchenWei/YOLO-mini-tiger` <br>
-put ./YOLO-mini-tiger/*.cfg into ./darknet/cfg <br>
-put ./YOLO-mini-tiger/*.weights into ./darknet <br>
+put `./YOLO-mini-tiger/*.cfg` into `./darknet/cfg` <br>
+put `./YOLO-mini-tiger/*.weights` into `./darknet` <br>
+
  
 
 ## 2.Training
