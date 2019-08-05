@@ -20,7 +20,7 @@ put `./YOLO-mini-tiger/*.weights` into `./darknet/` <br>
  
 
 ## 2.Training
-Amur Tiger Detection Dataset:https://cvwc2019.github.io/challenge.html <br>
+Amur Tiger Detection Dataset: https://cvwc2019.github.io/challenge.html <br>
 Our model trained without any pretrained model. <br>
 How to train: `./darknet detector train cfg/tiger.data cfg/yolo-mini-tiger.cfg -gpus 0 -dont_show` <br>
 **Tips: change your tiger.data with your dataset paths** <br>
