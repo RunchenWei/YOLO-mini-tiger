@@ -34,10 +34,8 @@ How to calculate mAP: `./darknet detector map cfg/tiger.data cfg/yolo-mini-tiger
 How to eval: `./darknet detector valid cfg/tiger.data cfg/yolo-mini-tiger.cfg backup/yolo-mini-tiger_final.weights out ""` <br>
 
 ## 5.Our Results
-| 星期        | 车次           | 时间  |
-|:------------- |:-------------:| -----:|
-| 星期一      |G1008 | 4:30 |
-|  星期二  | G1006      |  14:55 |
-|  星期三   | G1007    |   18:30 |
+| **Model**        | **mAP(COCO)**           | **BFLOPs**           | **Model Size**  |
+|:------------- |:-------------:|:-------------:| -----:|
+| YOLO-mini      |0.479 | 0.466 | 4.8MB |
 
 ![image](https://github.com/RunchenWei/YOLO-mini-tiger/blob/master/predictions.jpg)
