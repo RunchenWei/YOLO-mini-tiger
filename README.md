@@ -27,7 +27,7 @@ How to train: `./darknet detector train cfg/tiger.data cfg/yolo-mini-tiger.cfg -
 
 ## 3.Test
 How to test: `./darknet detector test cfg/tiger.data cfg/yolo-mini-tiger.cfg backup/yolo-mini-tiger_final.weights xxx.jpg` <br>
-Our model: to be continue... <br>
+Our model: **yolo-mini-tiger.weights** <br>
 
 ## 4.Evaluation
 How to calculate mAP: `./darknet detector map cfg/tiger.data cfg/yolo-mini-tiger.cfg backup/yolo-mini-tiger_final.weights` <br>
