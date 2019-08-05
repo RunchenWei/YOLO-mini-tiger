@@ -35,4 +35,4 @@ How to eval: `./darknet detector valid cfg/tiger.data cfg/yolo-mini-tiger.cfg ba
 
 ## 5.Our Results
 to be continue <br>
-![image] (https://github.com/RunchenWei/YOLO-mini-tiger/blob/master/predictions.jpg)
+![image](https://github.com/RunchenWei/YOLO-mini-tiger/blob/master/predictions.jpg)
