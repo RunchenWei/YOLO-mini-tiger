@@ -9,7 +9,7 @@ Requirements based on Darknet by AlexeyAB
 ## 1.Installation
 `git clone https://github.com/AlexeyAB/darknet` <br>
 `cd darknet/` <br>
-rewrite `GPU=1` `CUDNN=1` `OPENCV=1` in ./darknet/Makefile <br>
+rewrite `GPU=1` `CUDNN=1` `OPENCV=1` in `./darknet/Makefile` <br>
 run `make -j` <br>
 **Detailed insatallation please refer to Darknet.** <br>
 
