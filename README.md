@@ -35,7 +35,7 @@ How to eval: `./darknet detector valid cfg/tiger.data cfg/yolo-mini-tiger.cfg ba
 
 ## 5.Our Results
 | 星期        | 车次           | 时间  |
-| ------------- |:-------------:| -----:|
+|: ------------- |:-------------:| -----:|
 | 星期一      |G1008 | 4:30 |
 |  星期二  | G1006      |  14:55 |
 |  星期三   | G1007    |   18:30 |
