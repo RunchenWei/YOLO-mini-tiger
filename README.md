@@ -31,7 +31,7 @@ Our model: **yolo-mini-tiger.weights** <br>
 
 ## 4.Evaluation
 How to calculate mAP: `./darknet detector map cfg/tiger.data cfg/yolo-mini-tiger.cfg backup/yolo-mini-tiger_final.weights` <br>
-How to eval: `./darknet detector valid cfg/tiger.data cfg/yolo-mini-tiger.cfg backup/yolo-mini-tiger_final.weights out ""` <br>
+How to eval: `./darknet detector valid cfg/tiger.data cfg/yolo-mini-tiger.cfg backup/yolo-mini-tiger_final.weights -out ""` <br>
 
 ## 5.Our Results
 | **Model**        | **mAP(COCO)**           | **BFLOPs**           | **Model Size(MB)**  |
