@@ -35,7 +35,7 @@ How to eval: `./darknet detector valid cfg/tiger.data cfg/yolo-mini-tiger.cfg ba
 
 ## 5.Our Results
 | **Model**        | **mAP(COCO)**           | **BFLOPs**           | **Model Size**  |
-|:------------- |:-------------:|:-------------:| -----:|
+|:-------------:|:-------------:|:-------------:|:-----:|
 | YOLO-mini      |0.479 | 0.466 | 4.8MB |
 
 ![image](https://github.com/RunchenWei/YOLO-mini-tiger/blob/master/predictions.jpg)
