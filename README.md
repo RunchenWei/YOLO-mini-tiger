@@ -34,7 +34,7 @@ Our model trained without any pretrained model. <br>
     `sets=[('2007','train'),('2007','val'),('2007','test')]` <br>
     `classes= ["tiger"]` <br>
     comment the last two lines:<br>
-    `os.system("...")`<br>
+    `# os.system("...")`<br>
     run `python voc_label.py`<br>
     and then you will get `2007_train.txt`, `2007_val.txt`, `2007_test.txt`<br>
 (4) create a file: `./darknet/data/tiger.names` write a line `tiger` in `tiger.names` for label name<br>
