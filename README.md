@@ -32,7 +32,7 @@ Our model trained without any pretrained model. <br>
 (3) copy `./darknet/scripts/voc_label.py` to `./darknet/data/tiger/`<br>
     edit lines: <br>
     `sets=[('2007','train'),('2007','val'),('2007','test')]` <br>
-    `classes= ["tiger"]` <br>
+    `classes= ["Tiger"]` <br>
     comment the last two lines:<br>
     `# os.system("...")`<br>
     run `python voc_label.py`<br>
