@@ -1,5 +1,0 @@
-# AlexeyAB's comments
-https://github.com/AlexeyAB/darknet/issues/4360
-
-# Original implementation
-https://github.com/Zzh-tju/DIoU-darknet
